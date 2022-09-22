@@ -1,0 +1,16 @@
+*{
+    font-family: arial, verdana, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #ccc;
+    color: #222;
+}
+header, footer, div{
+    width: 1000px;
+    margin: 0% auto;
+}
