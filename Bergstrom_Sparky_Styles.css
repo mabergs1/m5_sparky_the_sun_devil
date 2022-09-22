@@ -12,5 +12,14 @@ body{
 }
 header, footer, div{
     width: 1000px;
-    margin: 0% auto;
+    margin: 0px auto;    
+}
+header, footer{
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
 }
