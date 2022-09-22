@@ -12,7 +12,10 @@ body{
 }
 header, footer, div{
     width: 1000px;
-    margin: 0px auto;    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;    
 }
 header, footer{
     background-color: #8c1d40;
