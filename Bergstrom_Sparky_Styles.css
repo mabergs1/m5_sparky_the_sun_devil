@@ -12,7 +12,6 @@ body{
 }
 header, footer, div{
     width: 1000px center;
-    text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: auto;
@@ -63,4 +62,15 @@ nav a{
 nav a:hover{
     background-color: #fff;
     color: #8c1d40;
+}
+main{
+    background-color: #fff;
+    padding: 24px;
+}
+main a{
+    color: #8c1d40;
+    font-weight: bold;
+}
+main a:hover{
+    background-color: #8c1d40;
 }
